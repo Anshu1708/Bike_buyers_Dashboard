@@ -3,19 +3,9 @@ This project analyzes a dataset of bike buyers based on their demographic and li
 
 # 🚴 Bike Buyers Dashboard – Excel Project  
 
-## 🗂 Dataset  
-The dataset includes customer attributes such as:  
-- Marital Status  
-- Gender  
-- Income  
-- Education Level  
-- Occupation  
-- Home Ownership  
-- Cars Owned  
-- Commute Distance  
-- Region  
-- Age & Age Brackets  
-- Purchased Bike (Yes/No)  
+## 🗂 Dataset used  
+- <a href="https://github.com/Anshu1708/Bike_buyers_Dashboard/blob/main/First%20Excel%20Project.xlsx">Datasat</a>
+
 
 ## 🔧 Process  
 1. **Data Cleaning & Transformation**  
@@ -28,11 +18,8 @@ The dataset includes customer attributes such as:
    - Calculated **average income differences** between buyers and non-buyers.  
 
 3. **Dashboard Creation**  
-   - Designed an **interactive Excel dashboard**.  
-   - Visualized insights using charts and slicers for:  
-     - Purchases by **Gender & Income**  
-     - Age Brackets vs. Purchases  
-     - Regional Purchase Trends  
+   <img width="1644" height="1090" alt="DB" src="https://github.com/user-attachments/assets/d67b9638-ca16-4e83-8cf3-2807e9a03ab6" />
+
 
 ## 📊 Key Insights  
 - Higher income does not always guarantee higher purchase rates.  
